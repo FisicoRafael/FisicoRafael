@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693655462104",
+    "project_id": "keepflutterclone",
+    "storage_bucket": "keepflutterclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693655462104:android:6747e1a3bf15b927cc77ad",
+        "android_client_info": {
+          "package_name": "com.example.google_keep_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693655462104-3k5r425ti1akpomvq4pahs2sogv97hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAeXaYMrE6PHFD4uAevjItY7BecqCY8MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693655462104-3k5r425ti1akpomvq4pahs2sogv97hb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
